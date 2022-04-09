@@ -1,0 +1,14 @@
+dash==1.17.0
+dash-core-components==1.13.0
+dash-design-kit==1.5.4
+dash-enterprise-auth==0.0.4
+dash-html-components==1.1.1
+dash-renderer==1.8.3
+dash-snapshots==1.3.2
+dash-table==4.11.0
+Flask==1.1.2
+Flask-Compress==1.8.0
+Flask-SQLAlchemy==2.4.4
+numpy==1.18.0
+pandas==1.1.4
+plotly==4.13.0
